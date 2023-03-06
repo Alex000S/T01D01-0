@@ -1,0 +1,6 @@
+mv door_management_fi door_management_files
+cat ai_door_management_module.sh
+mkdir door_configuration
+mkdir door_map
+mkdir door_logs
+
